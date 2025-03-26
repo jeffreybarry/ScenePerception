@@ -2,6 +2,10 @@
 
 **🧠 Evaluating how AI models render scenes—in images, video, and 3D space.**
 
+🚧 **Project Status — March 2025:**  
+ScenePerception is in early development. We are actively defining benchmark categories, designing prompt sets, and outlining evaluation criteria for image generation. Video and 3D scene modules are planned but not yet implemented. Contributions and feedback are welcome as we shape the foundation.
+
+
 ScenePerception is a benchmark suite for assessing the ability of AI models to transform natural language prompts into coherent visual scenes. It spans multiple modalities—🖼️ image, 🎥 video, and 🌐 3D environments—and focuses on the cognitive, semantic, and spatial challenges of generative scene construction.
 
 Whether you're working with image generators, video synthesis tools, or 3D scene generation for virtual and mixed reality, ScenePerception helps evaluate how well your model captures not just what a prompt says, but what it *means*.
