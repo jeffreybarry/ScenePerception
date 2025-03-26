@@ -5,6 +5,7 @@
 🚧 **Project Status — March 2025:**  
 ScenePerception is in early development. We are actively defining benchmark categories, designing prompt sets, and outlining evaluation criteria for image generation. Video and 3D scene modules are planned but not yet implemented. Contributions and feedback are welcome as we shape the foundation.
 
+---
 
 ScenePerception is a benchmark suite for assessing the ability of AI models to transform natural language prompts into coherent visual scenes. It spans multiple modalities—🖼️ image, 🎥 video, and 🌐 3D environments—and focuses on the cognitive, semantic, and spatial challenges of generative scene construction.
 
