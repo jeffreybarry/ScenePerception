@@ -74,11 +74,7 @@ ScenePerception will evolve as the field advances. Planned additions:
 
 ## 🤝 Contributing
 
-We welcome collaborators! Whether you're contributing new prompt sets, evaluation methods, or helping extend ScenePerception to new modalities—your input is valuable. Open an issue or pull request to get started.
+We welcome collaborators! Whether you're contributing new prompt sets, evaluation methods, or helping extend ScenePerception to new modalities—your input is valuable. Open an issue to get started.
 
----
 
-## 📜 License
-
-ScenePerception is released under the MIT License. See `LICENSE` for details.
 
