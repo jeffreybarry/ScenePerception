@@ -10,13 +10,13 @@ Whether you're working with image generators, video synthesis tools, or 3D scene
 
 ## ❓ Why ScenePerception?
 
-As generative models advance, there's a growing need to evaluate not only output quality but also:
+As generative models advance, there's a growing need to evaluate not only output quality but also other factors:
 
 - 🧩 **Scene comprehension**
 - 🗺️ **Prompt grounding**
 - 🔍 **Visual logic and reasoning**
 
-ScenePerception provides structured challenges to assess:
+ScenePerception provides structured challenges for assessment:
 
 - 📝 Semantic fidelity  
 - 🏗️ Compositional and spatial reasoning  
@@ -63,7 +63,7 @@ Across all tiers, this evaluates whether models can blend fantastical or absurd 
 
 ## 🔭 Roadmap
 
-ScenePerception will evolve as the field advances. Planned additions include:
+ScenePerception will evolve as the field advances. Planned additions:
 
 - 🧪 Expanded test sets and automated scoring tools  
 - 📊 Metrics for consistency, grounding, and stylistic fidelity  
