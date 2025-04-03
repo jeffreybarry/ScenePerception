@@ -10,7 +10,7 @@ The ScenePerception Benchmark Suite evaluates AI image generation models across 
 - Prompts are categorized by area: Text Rendering, Compositional Coherence, Semantic Grounding, Character Consistency, Realism vs. Stylization.
 
 ### Step 2: Generate Outputs
-- Use approved AI image generators (e.g., Midjourney, DALL·E).
+- Use AI image generators (e.g., Midjourney).
 - Record output metadata and save files in the `/images` directory.
 
 ### Step 3: Evaluation & Scoring
@@ -21,6 +21,5 @@ The ScenePerception Benchmark Suite evaluates AI image generation models across 
 - Submit results to `RESULTS.md` or `/results` directory.
 - Compare outputs by model type, prompt category, and evaluation scores.
 
-## Contributing
-See `CONTRIBUTING.md` for guidelines on submitting new prompts, evaluation criteria, or benchmarks.
+
 
