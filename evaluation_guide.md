@@ -114,7 +114,7 @@ Measures how well the model balances photorealism or stylization as specified.
   ```json
   {
     "id": "T1-001",
-    "model": "DALL·E",
+    "model": "Midjourney",
     "date": "2025-04-03",
     "scores": {
       "text_rendering": 12,
